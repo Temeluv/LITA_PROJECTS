@@ -1,2 +1,6 @@
 ### LITA_PROJECTS
-This is where I want to record my first project that deal with Microsoft Excel
+
+##PROJECT TITLE: DATA ENTRY
+
+##PROJECT OVERVIEW
+This is a process of inputing the data into rows and columns. You can also make use of form which can be added to the Quick Access Toolbar in Excel to enter your data.
