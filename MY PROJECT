@@ -1,0 +1,54 @@
+# LITA_CLASS_DOCUMENTATION
+This is where l documented my first project while learning Data Analysis with Incubator Hub.
+Class started in the month of August, 2024
+
+### Women In Tech
+Medical women are recptors. She possesses a range of manual, commercial, administratvive and interpersonal skills. Proverbs 31:20
+Women are extra beings. based on this a woman is more compassionate and would sacrifice more for herfamiy and society at large.
+
+[Proect Overview](#project-overview)
+(DATA SOURCES)(#data-sources)
+[TOOLS USED][#tools-used]
+[DATA CLEANING AND DATA PREPARATIONS][#data-cleaning-and-data-preparation]
+[EXPLORATORY DATA ANALYSIS][#exploratory-data-analysis]
+[DATA VISUAIZATION][#data-visualization]
+
+
+### PROJECT OVERVIEW:
+---
+The dada analysis proect aims to generate insight into the training of more ladies in tech.
+
+### DATA SOURCES
+The primary source of data used here is the field market.L
+
+### TOOLS USED
+- Microsoft Excel {Downoad Here} {https://www.microsoft.com}
+    1. For Data Cleaning
+    2. Data Analysis
+    3. data Visuaization
+- SQL- Structured Query Language for quering of data
+- Github for Portfolio buiding
+  
+### DATA CLEANING AND DATA PREPARATIONS
+The initial phase of the Data cleaning and preparations, we perform the following action:
+  1.  Data loading and inspection
+  2.  Handling missing variables
+  3.  Data cleaning and variables
+
+### EXPLORATORY DATA ANAYSIS
+EDA invoves the exporing of the data to answer some questions abaout data such as:
+  1. What is the overall data trend?
+  2. which products are top sellers
+  3. what are the products on peak sales?
+
+### DATA ANALYSIS
+---
+This is where we include some basic lines of codes or queries or even some of the Data expressions used during your analysis:
+
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
+
+### DATA VISUAIZATION
+
